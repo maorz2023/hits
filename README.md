@@ -9,4 +9,4 @@
 8 ahi da click derecho sobre el archivo TestRunner.java
 9 correlo como un Maven test
 10 Este challange cumple con los pasos requeridos, utiliza pom, cucumber y maven a su consideracion
-11 Si gusta ver el reporte generado por el cucumber se encuentra la carpeta target
+11 Para ver el reporte generado por el cucumber se encuentra la carpeta target
